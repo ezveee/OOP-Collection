@@ -1,0 +1,3 @@
+﻿  Oasencrawler ohne Klassen.cpp
+C:\Users\varga\source\repos\FHTW programming\SS2023\Oasencrawler ohne Klassen\Oasencrawler ohne Klassen\Oasencrawler ohne Klassen.cpp(163,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Oasencrawler ohne Klassen.vcxproj -> C:\Users\varga\source\repos\FHTW programming\SS2023\Oasencrawler ohne Klassen\Oasencrawler ohne Klassen\x64\Debug\Oasencrawler ohne Klassen.exe
